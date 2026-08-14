@@ -1,0 +1,6 @@
+{
+  "name": "PDF Tools",
+  "description": "A comprehensive suite of PDF tools for reading, manipulating, converting, merging, and splitting professional documents directly on your device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
